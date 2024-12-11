@@ -1,0 +1,7 @@
+AUTOR 
+ROMMEL SAID MARTINEZ SILVERIO
+
+UBICACION:https://github.com/saidmartinez21/ay-mama/new/main?filename=README.md
+
+HERRAMIENTA UTILIZADA:
+VISUAL STUDIO CODE
